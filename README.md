@@ -62,4 +62,8 @@ Allow users to upload their CV via a FastAPI endpoint, which then parses the PDF
 Analyze the extracted text to evaluate the candidate's qualifications against the O-1A visa criteria.
 
 #### 5. Display Analysis Results: 
-Present the evaluation results in a user-friendly format.
+Present the evaluation results in a user-friendly format. 
+
+## Future Work
+- Create a better UI for visualizing the results.
+- Try different models to perform the NLP analysis.
