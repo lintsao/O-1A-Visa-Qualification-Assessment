@@ -1,0 +1,4 @@
+env/*
+.env
+TODO.txt
+__pycache__/
