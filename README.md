@@ -16,7 +16,7 @@ This application assesses how a person is qualified for an O-1A immigration visa
 ## Setup and Running
 1. Clone this repository:
   ```bash
-  git clone 
+  git clone git@github.com:lintsao/O-1A-Visa-Qualification-Assessment.git
   ```
 
 2. Create a new virtual environment:
