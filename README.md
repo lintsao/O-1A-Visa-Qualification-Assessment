@@ -44,8 +44,8 @@ uvicorn main:app --reload
 Now, open your browser and navigate to http://127.0.0.1:8000. You can upload a PDF file and see the extracted text, analysis results, and the criteria used for the O-1A visa qualification. This setup integrates the JSON file containing the criteria into the FastAPI application.
 
 
-<img src="main.png" alt="Example Image" width="1280"/>
-<img src="result.png" alt="Example Image" width="1280"/>
+<img src="assets/main.png" alt="Example Image" width="1280"/>
+<img src="assets/result.png" alt="Example Image" width="1280"/>
 
 ## Design Flow
 The system takes an input (CV in PDF format), processes it through a resume parser, and then analyzes it using an LLM (Large Language Model) to generate evaluation results. The flow consists of the following steps:
