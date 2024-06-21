@@ -36,8 +36,7 @@ OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
   ```
 
 ## Usage
-1. Put your **OPENAI_API_KEY** into **.env** file
-2. Run the FastAPI server:
+1. Run the FastAPI server:
 ```
 uvicorn main:app --reload
 ```
